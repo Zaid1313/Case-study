@@ -1,2 +1,2 @@
-This is my update in master branch
+This is my update in master file
 This is my update in feature2 branch
